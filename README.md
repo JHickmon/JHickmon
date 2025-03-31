@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hi, I'm Jamyia, an <a href="[https://linkedin.com/in/jamyia-hickmon](https://www.linkedin.com/in/jamyia-hickmon-7645b9263/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jamyia, an <a href="[https://linkedin.com/in/jamyia hickmon](https://www.linkedin.com/in/jamyia-hickmon-7645b9263/)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
